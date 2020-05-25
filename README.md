@@ -1,0 +1,2 @@
+# JavaScript-evelb
+Desde evelb necesitamos desarrollar una aplicación que nos permita conocer que tiempo hace en una localización concreta. Al entrar en la aplicación el usuario podrá, bien buscar una ciudad o bien seleccionarla de un histórico de búsquedas anteriores, aunque haya salido de la aplicación. Una vez seleccionada una opción, el desarrollador puede implementar una de estas dos opciones: 1. Opción interfaz gráfica: se mostrará el detalle en una pantalla, que reflejará como mínimo los datos que se detallan a continuación:
