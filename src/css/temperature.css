@@ -1,0 +1,17 @@
+.bar-expand {
+    animation-name: animatedBar;
+    animation-duration: 3s;
+}
+
+.bar-contain {
+    width: 100%;
+}
+
+.bar-label {
+    text-align: center;
+}
+
+@keyframes animatedBar {
+    from {width: 0;}
+    to {width: valor;}
+}

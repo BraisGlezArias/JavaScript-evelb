@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+div .elements{
+    display: flex;
+    flex-direction: column;
+    margin: 0 25%;
+    justify-content: space-between;
+}
+
+div .city{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+section .temperature{
+    padding: 1rem 0 0 0;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2rem;
+}
+
+p {
+    text-align: center;
+}
+
+.leaflet-container {
+    height: 20rem;
+}
